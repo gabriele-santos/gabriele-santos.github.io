@@ -1,0 +1,39 @@
+h1 {
+  font-family: Varela Round, sans-serif;
+}
+
+#sobre-mim {
+  font-family: Varela Round, sans-serif;
+}
+
+body {
+  background-color: #ffcdb2;
+}
+
+.cidade-estado {
+  color: #6d6875;
+}
+
+.dev {
+  color: #6d6875;
+}
+
+.programaçao {
+  color: #6d6875;
+}
+
+.relacionamento {
+  font-size: 25px;
+}
+
+.organizaçao {
+  font-size: 21px;
+}
+
+.persistencia {
+  font-size: 17px;
+}
+
+.comprometimento {
+  font-size: 13px;
+}
