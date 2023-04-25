@@ -1,8 +1,5 @@
+.sobre-mim,
 h1 {
-  font-family: Varela Round, sans-serif;
-}
-
-#sobre-mim {
   font-family: Varela Round, sans-serif;
 }
 
@@ -36,4 +33,35 @@ body {
 
 .comprometimento {
   font-size: 13px;
+}
+
+.minha-selfie {
+  float: left;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #6d6875;
+}
+
+.image-block {
+  height: 290px;
+}
+
+.sobre-mim {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+
+ol li:nth-child(odd) {
+  background-color: #6d6875;
+  border: 1px solid black;
+}
+
+ul {
+  margin-top: 20px;
+  padding: 10px 600px;
 }
